@@ -1,30 +1,50 @@
-Mlungisi's Portfolio
+# Mlungisi's Portfolio
+
 Welcome to my GitHub! I'm Mlungisi, a second-year IT student at NWU, specializing in full-stack development. I am passionate about building innovative solutions using a variety of technologies.
 
-Technologies & Skills
-Backend: Python, Java, C#
+## Technologies & Skills
 
-Frontend: HTML, CSS, C#
+I work with a range of programming languages and tools to build robust, scalable applications. Below are the key technologies I specialize in:
 
-Full Stack Development
+### Backend
+![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
+- **Python**  
+![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png)
+- **Java**  
+![C#](https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png)
+- **C#**
 
-App Development
+### Frontend
+![HTML5](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png)
+- **HTML**  
+![CSS3](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png)
+- **CSS**  
+![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)
+- **JavaScript**
 
-UX/UI Design
+### Additional Skills
+- **Full Stack Development**
+- **App Development**
+- **UX/UI Design**
+- **Web Development**
 
-Web Development
+## Projects
 
-Projects
-Music streaming website- A website to stream music from youtube and soundcloud directly without ads
+Here are some of the projects I’ve been working on:
 
-[A Portfolio Website]: Website telling more about me and my skills i have learned so far
+### 1. **Music Streaming Website**
+   A website that allows users to stream music directly from YouTube and SoundCloud without ads.
 
-[txt file sorting system(Java)]: A project that reads data from the file and extract information from it
+### 2. **[Portfolio Website]**
+   A personal website that tells more about me and the skills I have learned so far.
 
-Contact
-LinkedIn: www.linkedin.com/in/mlungisi-ncube
+### 3. **[TXT File Sorting System (Java)]**
+   A project that reads data from a text file and extracts information for analysis.
 
-Email: ncubemlu05@gmail.com
+## Contact
 
-Feel free to browse through my repositories and reach out for collaborations or feedback!
+You can connect with me through the following channels:
+- **LinkedIn**: [www.linkedin.com/in/mlungisi-ncube](https://www.linkedin.com/in/mlungisi-ncube)
+- **Email**: [ncubemlu05@gmail.com](mailto:ncubemlu05@gmail.com)
 
+Feel free to browse through my repositories, provide feedback, or reach out for collaborations!
