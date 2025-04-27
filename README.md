@@ -18,9 +18,7 @@ I work with a range of programming languages and tools to build robust, scalable
 ![HTML5](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png)
 - **HTML**  
 ![CSS3](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png)
-- **CSS**  
-![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)
-- **JavaScript**
+- **CSS**
 
 ### Additional Skills
 - **Full Stack Development**
