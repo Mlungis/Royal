@@ -1,6 +1,6 @@
 # Mlungisi's Portfolio
 
-Welcome to my GitHub! I'm Mlungisi, a second-year IT student at NWU, specializing in full-stack development. I am passionate about building innovative solutions using a variety of technologies.
+Welcome to my GitHub! I'm Mlungisi, a Final-year IT student at NWU, specializing in full-stack development. I am passionate about building innovative solutions using a variety of technologies.
 
 ## Technologies & Skills
 
